@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Wed Mar 13 13:11:22 2024
+# Process ID: 6804
+# Current directory: C:/Users/RHuynh/CSEN122Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent132 C:\Users\RHuynh\CSEN122Project\CSEN122Project.xpr
+# Log file: C:/Users/RHuynh/CSEN122Project/vivado.log
+# Journal file: C:/Users/RHuynh/CSEN122Project\vivado.jou
+# Running On: winvdi1014, OS: Windows, CPU Frequency: 2394 MHz, CPU Physical cores: 4, Host memory: 8588 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/RHuynh/CSEN122Project/CSEN122Project.xpr

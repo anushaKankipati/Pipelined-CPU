@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Fri Mar 15 17:53:11 2024
+# Process ID: 10580
+# Current directory: C:/Users/rhuynh/CSEN122Project/CSEN122Project.runs/synth_1
+# Command line: vivado.exe -log test_bench.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source test_bench.tcl
+# Log file: C:/Users/rhuynh/CSEN122Project/CSEN122Project.runs/synth_1/test_bench.vds
+# Journal file: C:/Users/rhuynh/CSEN122Project/CSEN122Project.runs/synth_1\vivado.jou
+# Running On: win20217, OS: Windows, CPU Frequency: 2496 MHz, CPU Physical cores: 8, Host memory: 68431 MB
+#-----------------------------------------------------------
+source test_bench.tcl -notrace
